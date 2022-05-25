@@ -1,0 +1,16 @@
+
+.section{
+    border-top: 1px solid lightgray;
+    display: flex;
+}
+
+.filterbar{
+    flex: 1;
+    border-right: 1px solid lightgray;
+}
+
+.productsdisplay{
+    flex: 5;
+    display: flex;
+    justify-content: center;
+}
